@@ -101,7 +101,14 @@ Password: 1234
 👉 Add screenshots of:
 
 * Login Page
+* <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e341783-5411-430a-ab3e-cbeb6fc4e6a9" />
+
 * Dashboard Page
+* <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/967c2b75-70cf-460a-9277-910a6d04d231" />
+* Dark Mode Page
+* <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ecfb4db-52d2-4e41-bfa4-eb942f1b0038" />
+
+
 
 ---
 
