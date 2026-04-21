@@ -98,7 +98,6 @@ Password: 1234
 
 ## 📸 Screenshots
 
-👉 Add screenshots of:
 
 * Login Page
 * <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e341783-5411-430a-ab3e-cbeb6fc4e6a9" />
